@@ -60,24 +60,18 @@ Passionate about transforming data into meaningful insights using SQL, Python, P
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lpoojarsp-eng&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpoojarsp-eng&layout=compact&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com?user=lpoojarsp-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lpoojarsp-eng&theme=github-dark"/>
-</p>
-
 ---
 
 ## 📚 Featured Skills
 
-✔️ Data Analytics  
-✔️ Data Visualization  
-✔️ Business Intelligence  
-✔️ Financial Analytics  
-✔️ Dashboard Development  
-✔️ Data Cleaning & Reporting  
+- ✔️ Data Analytics
+- ✔️ Data Visualization
+- ✔️ Business Intelligence
+- ✔️ Financial Analytics
+- ✔️ Dashboard Development
+- ✔️ Data Cleaning & Reporting
 
 ---
 
