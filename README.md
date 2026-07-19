@@ -15,8 +15,8 @@ Passionate about transforming data into meaningful insights using SQL, Python, P
 ## 👨‍💻 About Me
 
 - 💼 Senior Process Executive @ Infosys BPM
-- 🎓 Pursuing MBA in Data Science & Business Analytics
 - 🎓 M.Com Graduate
+- 🎓 Pursuing MBA in Data Science & Business Analytics
 - 📊 Passionate about Data Analytics, Business Intelligence & Data Visualization
 - 🌱 Currently learning Python, SQL, Power BI, Advanced Excel, Git & GitHub
 - 🎯 Goal: Become a Data Analyst and build impactful data-driven solutions
