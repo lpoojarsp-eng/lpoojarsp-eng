@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laxman Poojar</h1>
 
-<h3 align="center">📊 Data Analytics Enthusiast | MBA in Data Science & Business Analytics | M.Com Graduate</h3>
+<h3 align="center">📊 Data Analytics Enthusiast  | M.Com Graduate | Pursuing MBA in Data Science & Business Analytics</h3>
 
 <p align="center">
 Passionate about transforming data into meaningful insights using SQL, Python, Power BI, and Excel.
