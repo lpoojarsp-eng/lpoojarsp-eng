@@ -62,7 +62,7 @@ Passionate about transforming data into meaningful insights using SQL, Python, P
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lpoojarsp-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
----
+
 
 ## 📚 Featured Skills
 
